@@ -1,0 +1,22 @@
+# Database dumps (sensitive)
+*.sql
+
+# PHP config with credentials
+cmt_db.php
+
+# Uploaded files
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+mysql_data/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
